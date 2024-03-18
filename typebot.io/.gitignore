@@ -1,0 +1,8 @@
+# .gitignore
+
+node_modules/
+public/javascripts/
+public/stylesheets/
+*.log
+.DS_Store
+.env
